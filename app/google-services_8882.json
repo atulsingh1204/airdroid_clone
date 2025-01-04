@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "897660759951",
-    "project_id": "sales-9689698885",
-    "storage_bucket": "sales-9689698885.firebasestorage.app"
+    "project_number": "473969430231",
+    "project_id": "sales-9689698882",
+    "storage_bucket": "sales-9689698882.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:897660759951:android:e7158ae27948116ed2a5fa",
+        "mobilesdk_app_id": "1:473969430231:android:e3935d09413bd77ca1aa92",
         "android_client_info": {
           "package_name": "com.atul.airdroidclone"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAUm70RLnM_uTwehYLuTDmLFe0rOYeAcIw"
+          "current_key": "AIzaSyCTBjlzTbAIQoAlSZpfvhl-EW6AGR3ileo"
         }
       ],
       "services": {
